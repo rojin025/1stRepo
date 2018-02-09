@@ -5,3 +5,8 @@ type: "git clone [URL]" to clone your repo
 type: "git status" to see changed files
 type: "git add [File Name]" to agree with changes to files
 type: 'git commit -m "[Message]" ' to commit your changes to your LOCAL master repo
+
+
+Edwardo Email-
+
+Eduardo@eagarcia.com
