@@ -6,6 +6,23 @@ type: "git status" to see changed files
 type: "git add [File Name]" to agree with changes to files
 type: 'git commit -m "[Message]" ' to commit your changes to your LOCAL master repo
 
+Basic bash commands
+List content of the current directory:
+ls (or ll)
+Go up one directory:
+cd .. (or ..)
+Go to a subdirectory:
+cd DIRECTORY
+Go to the home directory:
+cd
+Connect to a remote machine as specified user using SSH:
+ssh REMOTE-USER@SERVER-DOMAIN
+Open file in the default text editor (Sublime Text 3 if you’ve installed it) *:
+edit FILE
+Copy content of a file to system clipboard (then you can paste it using Ctrl+V) *:
+cat FILE > clip
+* This will work only on your local computer, not on a remote server via SSH!
+
 
 Edwardo Email-
 
